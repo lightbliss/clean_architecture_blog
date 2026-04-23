@@ -6,7 +6,7 @@ import (
   	"net/http"
   	"path"
 
-	"github.com/lightbliss/blog/internal/core/blog"
+	"github.com/lightbliss/clean_architecture_blog/internal/core/blog"
 )
 
 type ViewPostHandler struct {

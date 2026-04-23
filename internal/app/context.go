@@ -6,11 +6,11 @@ import (
   "os"
   "path/filepath"
 
-  "github.com/lightbliss/blog/internal/adapters/postrepo/filesystem"
-  "github.com/lightbliss/blog/internal/adapters/renderer/goldmark"
-  "github.com/lightbliss/blog/internal/core/blog"
-  "github.com/lightbliss/blog/internal/ui/web"
-  "github.com/lightbliss/blog/pkg/env"
+  "github.com/lightbliss/clean_architecture_blog/internal/adapters/postrepo/filesystem"
+  "github.com/lightbliss/clean_architecture_blog/internal/adapters/renderer/goldmark"
+  "github.com/lightbliss/clean_architecture_blog/internal/core/blog"
+  "github.com/lightbliss/clean_architecture_blog/internal/ui/web"
+  "github.com/lightbliss/clean_architecture_blog/pkg/env"
 )
 
 type Context struct {

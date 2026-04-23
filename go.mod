@@ -1,4 +1,4 @@
-module github.com/lightbliss/blog
+module github.com/lightbliss/clean_architecture_blog
 
 go 1.20
 

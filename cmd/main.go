@@ -3,7 +3,7 @@ package main
 import (
   "log"
 
-  "github.com/lightbliss/blog/internal/app"
+  "github.com/lightbliss/clean_architecture_blog/internal/app"
 )
 
 func main() {

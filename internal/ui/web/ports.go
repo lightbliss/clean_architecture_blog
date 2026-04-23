@@ -1,6 +1,6 @@
 package web
 
-import "github.com/lightbliss/blog/internal/core/blog"
+import "github.com/lightbliss/clean_architecture_blog/internal/core/blog"
 
 type Usecases interface {
 	ViewPost ViewPostUsecase

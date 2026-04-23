@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/lightbliss/blog/internal/core/blog"
+	"github.com/lightbliss/clean_architecture_blog/internal/core/blog"
 )
 
 const ErrInvalidTime = errors.New("invalid time format, please use YYYY-MM-DD HH:MM")
